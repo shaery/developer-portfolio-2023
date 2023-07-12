@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 55px;
+}
+
+.span_Pipi{
+    color: rgb(221, 110, 0);
+}
+
+section{
+    display: flex;
+}
+
+.half{
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.half img{
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.link-button{
+    text-decoration: none;
+    color: rgb(253, 237, 217);
+    background-image: linear-gradient(black, rgb(109, 85, 85));
+    padding: 10px 40px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
